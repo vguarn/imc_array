@@ -66,7 +66,7 @@ namespace imc_array
             }
              int acimapeso = acima / 100;
 
-            Console.WriteLine(acima + " pessoas estão acima do peso.");
+            Console.WriteLine(acima + "% pessoas estão acima do peso.");
            
 
             Console.ReadKey();
